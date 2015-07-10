@@ -1,4 +1,6 @@
 # 劉師父秘笈
 
-* [穴位](point.md)
-* [手 - 手麻](hand01.md)
+* [穴位](point/READMe.md)
+    * [膏肓](point/point01.md) 
+* [手](hand/README.md)
+    * [手麻](/hand/hand01.md)
