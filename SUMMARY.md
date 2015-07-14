@@ -8,3 +8,4 @@
     * [腰痛](/waist/waist01.md)
 * [感冒](cold/index.md)
     * [流鼻涕](cold/cold01.md)
+* [手法](method/index.md)
