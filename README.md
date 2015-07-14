@@ -1,6 +1,3 @@
 # 劉師父秘笈
 
-* [穴位](point/index.md)
-    * [膏肓](point/point01.md) 
-* [手](hand/index.md)
-    * [手麻](/hand/hand01.md)
+![Alt 東寶](/pic/20150713/IMG_20150713_222921.jpg)
